@@ -1,0 +1,13 @@
+#imageholder{
+    display: block;
+    width: 70%;
+    margin:  auto;
+}
+img{
+    display: none;
+}
+
+@page {
+    size: 25cm 35.7cm;
+    margin: 5mm 5mm 5mm 5mm; /* change the margins as you want them to be. */
+}
